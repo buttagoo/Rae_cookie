@@ -1,0 +1,16 @@
+{
+ "name": "Cookie Patrol",
+ "short_name": "Cookie Patrol",
+ "description": "A gentle cookie-throwing game for little ones.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "landscape",
+ "background_color": "#2b2420",
+ "theme_color": "#2b2420",
+ "icons": [
+  {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+ ]
+}
